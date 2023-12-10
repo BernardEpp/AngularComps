@@ -1,6 +1,7 @@
 # Angular Comps
 
-This is a repo on how to use some angular components.
+This is a repo on how to use some angular components. This is using the styles provided by semantic-ui.
+.
 This implements:
 
 - Routing and Modules

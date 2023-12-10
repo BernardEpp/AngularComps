@@ -6,5 +6,4 @@ import { Component } from '@angular/core';
   styleUrl: './divider.component.css'
 })
 export class DividerComponent {
-
 }
